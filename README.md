@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @CasperSchut
 - 👀  I’m interested in webdevelopment and -design
-- 🌱  I’m currently learning JavaScript and Node.js
+- 🌱  I’m currently learning HTML, CSS and JavaScript
 - 💞️  I’m looking to collaborate on webdevelopment for your business
 - 📫  Contact me at:
 - 📧  casperschut@outlook.com
